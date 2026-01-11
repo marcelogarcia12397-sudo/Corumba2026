@@ -1,18 +1,18 @@
 # Prerequisites
-*.d
+*.d218344432
 
 # Compiled Object files
-*.slo
+*.slo/319/33419
 *.lo
-*.o
+*.olo
 *.obj
-
+*.
 # Precompiled Headers
 *.gch
 *.pch
 
 # Linker files
-*.ilk
+*.ilk/2112
 
 # Debugger Files
 *.pdb
@@ -39,3 +39,4 @@
 
 # debug information files
 *.dwo
+,owajms2026
